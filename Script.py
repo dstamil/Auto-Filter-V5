@@ -20,7 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     SOURCE_TXT ="""
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
-- Sᴏᴜʀᴄᴇ - <a href=https://t.me/Aks_support01_bot>Watch Tutorial</a></b>
+- Sᴏᴜʀᴄᴇ - <a href=https://t.me/MM_MOVIESSS>CLICK HERE</a></b>
 """
  
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
