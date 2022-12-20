@@ -135,7 +135,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @CyniteBackup ]─────⍟</b>"""
+<b>⍟────[ @MM_MOVIESSS ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
@@ -192,7 +192,7 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ:- Cynite
+• ꜰᴜʟʟ ɴᴀᴍᴇ:- DS
 ᴜsᴇʀɴᴀᴍᴇ:- @cynitesupport
 ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/cynitesupport'>Cynite</a></b>
 """
