@@ -42,9 +42,9 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "dsbro")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/cynitesupport')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/cynitebackup')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/cynitesupport')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/suppooortv')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MM_MOVIESSS')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/suppooortv')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
