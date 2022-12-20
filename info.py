@@ -43,14 +43,14 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/suppooortv')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MM_MOVIESSS')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/channeegj')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/suppooortv')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001797596826))
-FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001810806290))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/cynitebackup')
+FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001807703129))
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/channeegj')
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/cynitemovies/3')
 
 # Log Channels
